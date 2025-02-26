@@ -1,0 +1,39 @@
+/* @font-face {
+    font-family:'Courier New', Courier, monospace;
+} */
+body {
+    background-color: gray;
+    margin-top: 0;
+    /* margin-left: 0; */
+}
+footer {
+    margin: 0;
+    text-align: center;
+}
+
+#shelf-top {
+    margin: 0;
+    width: 100vw;
+    height: 20px;
+    background-color: brown;
+}
+.shelf-hole {
+    background-color: burlywood;
+    margin: 0;
+    width: 100vw;
+    height: 40vw;
+    border: 20px solid brown;
+    border-top: none; 
+    display: block;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.book {
+    text-align: left;
+    margin: 0;
+}
+.book img {
+    max-height: 35vw;
+    width: auto;
+}

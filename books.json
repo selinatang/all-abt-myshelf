@@ -1,5 +1,11 @@
 [
     {
+        "id":1,
+        "title":"Dune",
+        "author":"Frank Herbert",
+        "spine":"spine-imgs/dune-spine.jpg"
+    },
+    {
         "id":2,
         "title":"Butter",
         "author":"Asako Yuzuki",
